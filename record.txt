@@ -1,0 +1,18 @@
+aryan
+cs232
+3.0
+Computer Network
+CS352
+Cloud Computing
+CS351
+Control Systems
+EC380
+Abhinav
+CS5672
+2.0
+Java
+CS201
+Algorithm
+CS202
+Semiconductor
+EC202
